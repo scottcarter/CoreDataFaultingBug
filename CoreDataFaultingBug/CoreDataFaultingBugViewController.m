@@ -31,6 +31,11 @@
  3. Run the simulator and click "Fetch".
  
  
+ Update:
+ Posted a request for help at
+ https://devforums.apple.com/thread/177752
+ 
+ 
  */
 
 
